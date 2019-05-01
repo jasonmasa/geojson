@@ -1,0 +1,33 @@
+{
+"type": "FeatureCollection",
+"name": "Amenities-Nightlife",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": "1577450685", "code": 2304, "fclass": "pub", "name": "O'Neill's" }, "geometry": { "type": "Point", "coordinates": [ -84.4658706, 38.0197628 ] } },
+{ "type": "Feature", "properties": { "osm_id": "1736017076", "code": 2304, "fclass": "pub", "name": "Al's Bar" }, "geometry": { "type": "Point", "coordinates": [ -84.4863297, 38.0540236 ] } },
+{ "type": "Feature", "properties": { "osm_id": "2508537008", "code": 2305, "fclass": "bar", "name": "Paddock Bar & Patio" }, "geometry": { "type": "Point", "coordinates": [ -84.501963, 38.0430841 ] } },
+{ "type": "Feature", "properties": { "osm_id": "2627597159", "code": 2305, "fclass": "bar", "name": "JDI Bar and Grill" }, "geometry": { "type": "Point", "coordinates": [ -84.5058549, 38.0445339 ] } },
+{ "type": "Feature", "properties": { "osm_id": "2685297663", "code": 2305, "fclass": "bar", "name": "Lynagh's Pub" }, "geometry": { "type": "Point", "coordinates": [ -84.4952767, 38.0346836 ] } },
+{ "type": "Feature", "properties": { "osm_id": "2685297668", "code": 2305, "fclass": "bar", "name": "Cosmic Charlie's" }, "geometry": { "type": "Point", "coordinates": [ -84.4954901, 38.0345136 ] } },
+{ "type": "Feature", "properties": { "osm_id": "2685322666", "code": 2305, "fclass": "bar", "name": "Buster's Billiards & Backroom" }, "geometry": { "type": "Point", "coordinates": [ -84.5091097, 38.0530327 ] } },
+{ "type": "Feature", "properties": { "osm_id": "2685322677", "code": 2305, "fclass": "bar", "name": "Grand Reserve" }, "geometry": { "type": "Point", "coordinates": [ -84.5093457, 38.0531425 ] } },
+{ "type": "Feature", "properties": { "osm_id": "2685331423", "code": 2304, "fclass": "pub", "name": "McCarthy's Irish Bar" }, "geometry": { "type": "Point", "coordinates": [ -84.4985688, 38.046894 ] } },
+{ "type": "Feature", "properties": { "osm_id": "2685366770", "code": 2304, "fclass": "pub", "name": "The Village Idiot" }, "geometry": { "type": "Point", "coordinates": [ -84.4982922, 38.0489067 ] } },
+{ "type": "Feature", "properties": { "osm_id": "2686028052", "code": 2305, "fclass": "bar", "name": "TrusT" }, "geometry": { "type": "Point", "coordinates": [ -84.4972945, 38.046842 ] } },
+{ "type": "Feature", "properties": { "osm_id": "2686038632", "code": 2305, "fclass": "bar", "name": "Paulie's Toasted Barrel" }, "geometry": { "type": "Point", "coordinates": [ -84.5012454, 38.0503911 ] } },
+{ "type": "Feature", "properties": { "osm_id": "3158011463", "code": 2305, "fclass": "bar", "name": "Marikka's Food & Beer" }, "geometry": { "type": "Point", "coordinates": [ -84.526927, 38.0189192 ] } },
+{ "type": "Feature", "properties": { "osm_id": "3197254822", "code": 2305, "fclass": "bar", "name": "Big Cat Liquors" }, "geometry": { "type": "Point", "coordinates": [ -84.5140149, 38.0380885 ] } },
+{ "type": "Feature", "properties": { "osm_id": "3200257944", "code": 2305, "fclass": "bar", "name": "Office Lounge" }, "geometry": { "type": "Point", "coordinates": [ -84.4530139, 38.0462821 ] } },
+{ "type": "Feature", "properties": { "osm_id": "3478891005", "code": 2305, "fclass": "bar", "name": "Mac's Karaoke Bar" }, "geometry": { "type": "Point", "coordinates": [ -84.5414548, 38.0291431 ] } },
+{ "type": "Feature", "properties": { "osm_id": "3708301948", "code": 2305, "fclass": "bar", "name": "Shorty's Tap Room" }, "geometry": { "type": "Point", "coordinates": [ -84.4968775, 38.0475966 ] } },
+{ "type": "Feature", "properties": { "osm_id": "3708305822", "code": 2305, "fclass": "bar", "name": "Break Room at Pepper" }, "geometry": { "type": "Point", "coordinates": [ -84.5187805, 38.0556749 ] } },
+{ "type": "Feature", "properties": { "osm_id": "3760831038", "code": 2305, "fclass": "bar", "name": "The Other Bar" }, "geometry": { "type": "Point", "coordinates": [ -84.5020303, 38.043037 ] } },
+{ "type": "Feature", "properties": { "osm_id": "3908829738", "code": 2304, "fclass": "pub", "name": "HopCat" }, "geometry": { "type": "Point", "coordinates": [ -84.4996491, 38.0496982 ] } },
+{ "type": "Feature", "properties": { "osm_id": "4022533960", "code": 2305, "fclass": "bar", "name": "Belle's" }, "geometry": { "type": "Point", "coordinates": [ -84.4970021, 38.0485736 ] } },
+{ "type": "Feature", "properties": { "osm_id": "4022543181", "code": 2305, "fclass": "bar", "name": "Rosebud Bar" }, "geometry": { "type": "Point", "coordinates": [ -84.4985578, 38.0485546 ] } },
+{ "type": "Feature", "properties": { "osm_id": "4022543182", "code": 2305, "fclass": "bar", "name": "Silks Lounge" }, "geometry": { "type": "Point", "coordinates": [ -84.4984988, 38.0485884 ] } },
+{ "type": "Feature", "properties": { "osm_id": "4042165296", "code": 2304, "fclass": "pub", "name": "The Beer Tappe" }, "geometry": { "type": "Point", "coordinates": [ -84.4908403, 38.0301213 ] } },
+{ "type": "Feature", "properties": { "osm_id": "4085887849", "code": 2305, "fclass": "bar", "name": "Chase Taproom" }, "geometry": { "type": "Point", "coordinates": [ -84.4986682, 38.0546834 ] } },
+{ "type": "Feature", "properties": { "osm_id": "4618506940", "code": 2305, "fclass": "bar", "name": "Chill Spot Lounge" }, "geometry": { "type": "Point", "coordinates": [ -84.5060439, 38.0726282 ] } }
+]
+}
