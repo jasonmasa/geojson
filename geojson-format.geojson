@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Restaurants",
+"features": [
+{ "type": "Feature", "properties": { "name": "name1" }, "geometry": { "type": "Point", "coordinates": [ -84.5015602, 38.0624998 ] } },
+{ "type": "Feature", "properties": { "name": "name2" }, "geometry": { "type": "Point", "coordinates": [ -84.515251202119586, 38.08651640 ] } },
+{ "type": "Feature", "properties": { "name": "name3" }, "geometry": { "type": "Point", "coordinates": [ -84.5360513, 38.0681324 ] } }
+]
+}
