@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Reach-Points",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "LABEL": "30min. Drive" }, "geometry": { "type": "Point", "coordinates": [ -122.597916083433077, 45.56751665841032 ] } },
+{ "type": "Feature", "properties": { "LABEL": "15min. Drive" }, "geometry": { "type": "Point", "coordinates": [ -122.627939519701627, 45.521853216127361 ] } },
+{ "type": "Feature", "properties": { "LABEL": "30min. Walk" }, "geometry": { "type": "Point", "coordinates": [ -122.634248139124324, 45.499096575700307 ] } },
+{ "type": "Feature", "properties": { "LABEL": "15min. Walk" }, "geometry": { "type": "Point", "coordinates": [ -122.632834470688195, 45.492499103612197 ] } }
+]
+}
