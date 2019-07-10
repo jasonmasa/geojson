@@ -3,9 +3,9 @@
 "name": "REACH-Markers",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "REACH": "DRIVE30" }, "geometry": { "type": "Point", "coordinates": [ -111.987375700389094, 33.773644673778477 ] } },
-{ "type": "Feature", "properties": { "REACH": "DRIVE15" }, "geometry": { "type": "Point", "coordinates": [ -112.014440806674656, 33.695425187244147 ] } },
-{ "type": "Feature", "properties": { "REACH": "WALK30" }, "geometry": { "type": "Point", "coordinates": [ -111.992067945951888, 33.636595925644635 ] } },
-{ "type": "Feature", "properties": { "REACH": "WALK15" }, "geometry": { "type": "Point", "coordinates": [ -111.998272796657176, 33.630626205963416 ] } }
+{ "type": "Feature", "properties": { "REACH": "DRIVE30" }, "geometry": { "type": "Point", "coordinates": [ -112.048051429337022, 33.4007006587265 ] } },
+{ "type": "Feature", "properties": { "REACH": "DRIVE15" }, "geometry": { "type": "Point", "coordinates": [ -112.020051715545222, 33.566480309351164 ] } },
+{ "type": "Feature", "properties": { "REACH": "WALK30" }, "geometry": { "type": "Point", "coordinates": [ -112.00329803424134, 33.613487750047064 ] } },
+{ "type": "Feature", "properties": { "REACH": "WALK15" }, "geometry": { "type": "Point", "coordinates": [ -111.999593676106372, 33.620682130811502 ] } }
 ]
 }
