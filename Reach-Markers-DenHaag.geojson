@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Reach-Markers-DenHaag",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "REACH": "WALK15" }, "geometry": { "type": "Point", "coordinates": [ 4.325772, 52.070515 ] } },
+{ "type": "Feature", "properties": { "REACH": "WALK30" }, "geometry": { "type": "Point", "coordinates": [ 4.325392351077473, 52.064965486249477 ] } },
+{ "type": "Feature", "properties": { "REACH": "DRIVE15" }, "geometry": { "type": "Point", "coordinates": [ 4.329840658614899, 52.032071712409369 ] } },
+{ "type": "Feature", "properties": { "REACH": "DRIVE30" }, "geometry": { "type": "Point", "coordinates": [ 4.322923275997936, 51.949573432564186 ] } }
+]
+}
